@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joset974
 - 👀 I’m interested in full stack and app development 
-- 🌱 I’m currently learning html and Java 
+- 🌱 I’m currently learning html and JavaScript 
 - 👻 I’m looking to collaborate on a entry level job
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/jose-torres-62380616a
 
